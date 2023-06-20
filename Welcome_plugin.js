@@ -1,5 +1,6 @@
 const plugin = ({ widgets, simulator, vehicle }) => {
   var txt = readTextFile("https://xavierdai.github.io/ident.txt");
+  console.log(txt);
   var allDriverDictionary = analysisTxt(txt);
   console.log(allDriverDictionary);
   var defaultDriverDictionary = pasteToNewDictionary(allDriverDictionary["Default_Driver"]);
