@@ -1,5 +1,5 @@
 const plugin = ({ widgets, simulator, vehicle }) => {
-  var txt = readTextFile("http://127.0.0.1:5500/ident.txt");
+  var txt = readTextFile("https://xavierdai.github.io/ident.txt");
   var allDriverDictionary = analysisTxt(txt);
   var defaultDriverDictionary = pasteToNewDictionary(allDriverDictionary["Default_Driver"]);
   // var originalCustomDriverDictionary = {};
