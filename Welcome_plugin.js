@@ -2359,7 +2359,7 @@ function readTextFile(fileName) {
       if (rawFile.status === 200 || rawFile.status == 0) {
         var allText = rawFile.responseText.toString();
         // alert(allText);
-        infoList = allText.split("\r\n");
+        infoList = allText.split("\n");
       }
     }
   };
