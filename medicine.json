@@ -4,55 +4,63 @@
     "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
     "name": "Medicine 1",
     "description": "Description for Medicine 1. An effective treatment for condition 1.",
-    "price": "10.99"
+    "price": "10.99",
+    "stock":"in_stock"
   },
   {
     "id": "7c3bfc06-0df7-4996-a35a-53ccd03f849f",
     "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
     "name": "Medicine 2",
     "description": "Description for Medicine 2. An effective treatment for condition 2.",
-    "price": "20.99"
+    "price": "20.99",
+    "stock":"in_stock"
   },
   {
     "id": "a8baa833-e66d-4d34-bfab-8398ddf4cc25",
     "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
     "name": "Medicine 3",
     "description": "Description for Medicine 3. An effective treatment for condition 3.",
-    "price": "30.99"
+    "price": "30.99",
+    "stock":"in_stock"
   },
   {
     "id": "f524634f-7afa-4872-a66e-0af2f22cac34",
     "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
     "name": "Medicine 4",
     "description": "Description for Medicine 4. An effective treatment for condition 4.",
-    "price": "40.99"
+    "price": "40.99",
+    "stock":"in_stock"
   },
   {
     "id": "f2c385ff-75cf-4f04-a35d-16fa6d5a4caa",
     "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
     "name": "Medicine 5",
     "description": "Description for Medicine 5. An effective treatment for condition 5.",
-    "price": "50.99"
+    "price": "50.99",
+    "stock":"in_stock"
   },
   {
     "id": "47edb004-ffff-41b5-bf56-5ced18f828a8",
     "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
     "name": "Medicine 6",
     "description": "Description for Medicine 6. An effective treatment for condition 6.",
-    "price": "60.99"
+    "price": "60.99",
+    "stock":"in_stock"
   },
   {
     "id": "4ac661ce-abb9-417e-9009-6060a30f3c26",
     "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
     "name": "Medicine 7",
     "description": "Description for Medicine 7. An effective treatment for condition 7.",
-    "price": "70.99"
+    "price": "70.99",
+    "stock":"in_stock"
   },
   {
     "id": "3e570e48-4250-4849-9d1e-b20e2a2caf42",
     "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
     "name": "Medicine 8",
     "description": "Description for Medicine 8. An effective treatment for condition 8.",
-    "price": "80.99"
+    "price": "80.99",
+    "stock":"in_stock"
   }
 ]
