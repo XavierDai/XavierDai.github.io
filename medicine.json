@@ -1,66 +1,66 @@
 [
   {
     "id": "5210bc7b-8abc-4d6f-a032-5b902129ae26",
-    "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
-    "name": "Medicine 1",
-    "description": "Description for Medicine 1. An effective treatment for condition 1.",
-    "price": "10.99",
-    "stock":"in_stock"
+    "image_url": "https://xavierdai.github.io/imgs/acetaminophen.png",
+    "name": "Acetaminophen",
+    "description": "Used to relieve pain and reduce fever. Suitable for adults and children.",
+    "price": "5.99",
+    "stock": "in_stock"
   },
   {
     "id": "7c3bfc06-0df7-4996-a35a-53ccd03f849f",
-    "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
-    "name": "Medicine 2",
-    "description": "Description for Medicine 2. An effective treatment for condition 2.",
-    "price": "20.99",
-    "stock":"in_stock"
+    "image_url": "https://xavierdai.github.io/imgs/ibuprofen.png",
+    "name": "Ibuprofen",
+    "description": "A nonsteroidal anti-inflammatory drug (NSAID) that helps reduce pain, inflammation, and fever.",
+    "price": "8.99",
+    "stock": "in_stock"
   },
   {
     "id": "a8baa833-e66d-4d34-bfab-8398ddf4cc25",
-    "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
-    "name": "Medicine 3",
-    "description": "Description for Medicine 3. An effective treatment for condition 3.",
-    "price": "30.99",
-    "stock":"in_stock"
+    "image_url": "https://xavierdai.github.io/imgs/amoxicillin.png",
+    "name": "Amoxicillin",
+    "description": "A penicillin antibiotic that fights bacteria. Used to treat different types of infections caused by bacteria.",
+    "price": "12.99",
+    "stock": "in_stock"
   },
   {
     "id": "f524634f-7afa-4872-a66e-0af2f22cac34",
-    "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
-    "name": "Medicine 4",
-    "description": "Description for Medicine 4. An effective treatment for condition 4.",
-    "price": "40.99",
-    "stock":"in_stock"
+    "image_url": "https://xavierdai.github.io/imgs/loratadine.png",
+    "name": "Loratadine",
+    "description": "An antihistamine that reduces the effects of natural chemical histamine in the body. Effective for allergy symptoms.",
+    "price": "15.99",
+    "stock": "in_stock"
   },
   {
     "id": "f2c385ff-75cf-4f04-a35d-16fa6d5a4caa",
-    "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
-    "name": "Medicine 5",
-    "description": "Description for Medicine 5. An effective treatment for condition 5.",
-    "price": "50.99",
-    "stock":"in_stock"
+    "image_url": "https://xavierdai.github.io/imgs/metformin.png",
+    "name": "Metformin",
+    "description": "Used to improve blood sugar control in adults with type 2 diabetes. Not for treating type 1 diabetes.",
+    "price": "18.99",
+    "stock": "in_stock"
   },
   {
     "id": "47edb004-ffff-41b5-bf56-5ced18f828a8",
-    "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
-    "name": "Medicine 6",
-    "description": "Description for Medicine 6. An effective treatment for condition 6.",
-    "price": "60.99",
-    "stock":"in_stock"
+    "image_url": "https://xavierdai.github.io/imgs/omeprazole.png",
+    "name": "Omeprazole",
+    "description": "A proton pump inhibitor that decreases the amount of acid produced in the stomach. Used to treat symptoms of gastroesophageal reflux disease (GERD).",
+    "price": "21.99",
+    "stock": "in_stock"
   },
   {
     "id": "4ac661ce-abb9-417e-9009-6060a30f3c26",
-    "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
-    "name": "Medicine 7",
-    "description": "Description for Medicine 7. An effective treatment for condition 7.",
-    "price": "70.99",
-    "stock":"in_stock"
+    "image_url": "https://xavierdai.github.io/imgs/atorvastatin.png",
+    "name": "Atorvastatin",
+    "description": "Used to help lower 'bad' cholesterol and fats (such as LDL, triglycerides) and raise 'good' cholesterol (HDL) in the blood.",
+    "price": "25.99",
+    "stock": "in_stock"
   },
   {
     "id": "3e570e48-4250-4849-9d1e-b20e2a2caf42",
-    "image_url": "https://xavierdai.github.io/imgs/demoMedicineImg.png",
-    "name": "Medicine 8",
-    "description": "Description for Medicine 8. An effective treatment for condition 8.",
-    "price": "80.99",
-    "stock":"in_stock"
+    "image_url": "https://xavierdai.github.io/imgs/albuterol.png",
+    "name": "Albuterol",
+    "description": "A bronchodilator that helps open up the airways in the lungs to make it easier to breathe. Used to treat and prevent bronchospasm.",
+    "price": "28.99",
+    "stock": "in_stock"
   }
 ]
